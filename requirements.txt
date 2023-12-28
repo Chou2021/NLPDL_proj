@@ -1,0 +1,17 @@
+peft
+transformers
+datasets
+evaluate
+accelerate
+bitsandbytes
+wandb
+rouge_score
+tensorboard
+py7zr
+numpy
+rouge-score
+sentencepiece
+absl-py
+nltk
+bert_score
+torch
